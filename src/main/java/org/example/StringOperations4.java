@@ -4,14 +4,20 @@ public class StringOperations4 {
     public static void main(String[] args) {
         String input = "Hello World";
         String reversed = reverseString(input);
-        String uppercased = toUpperCase(input);
-        String uppercased2 = toUpperCase(input);
         String lowercased = toLowerCase(input);
 
         System.out.println("Reversed: " + reversed);
         System.err.println("Eeeeeeeeeefds: " + lowercased);
         System.err.println("EEEEEEEEE: " + lowercased);
-
+        System.out.println("Reversed: " + reversed);
+        System.err.println("Eeeeeeeeeefds: " + lowercased);
+        System.err.println("EEEEEEEEE: " + lowercased);        System.out.println("Reversed: " + reversed);
+        System.err.println("Eeeeeeeeeefds: " + lowercased);
+        System.err.println("EEEEEEEEE: " + lowercased);        System.out.println("Reversed: " + reversed);
+        System.err.println("Eeeeeeeeeefds: " + lowercased);
+        System.err.println("EEEEEEEEE: " + lowercased);        System.out.println("Reversed: " + reversed);
+        System.err.println("Eeeeeeeeeefds: " + lowercased);
+        System.err.println("EEEEEEEEE: " + lowercased);
 
     }
 
