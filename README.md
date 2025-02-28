@@ -10,7 +10,7 @@
 
 ## Availability 
 
-All environments (dev, staging, prod) in:
+DEV, STAGING and PROD in:
 
 <img width="800" alt="us-region" src="us-region.png" />
 
