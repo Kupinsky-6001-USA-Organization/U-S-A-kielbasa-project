@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id "org.sonarqube" version "6.0.1.5171"
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+sonar {
+    properties {
+        property "sonar.token", "7715ab3be515355deea8b90ffd474a3fd9a9b7cf"
+        property "sonar.projectKey", "Kupinsky-6001-USA-Organization_U-S-A-kielbasa-project"
+        property "sonar.organization", "kupinsky-6001-usa-organization"
+        property "sonar.host.url", "https://us.sonarcloud.io"
+//        property "sonar.pullrequest.branch", "pr-branch-4"
+//        property "sonar.pullrequest.key", "11"
+    }
+}
