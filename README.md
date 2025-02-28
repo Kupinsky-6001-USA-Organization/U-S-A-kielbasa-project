@@ -10,6 +10,8 @@
 
 ## Availability 
 
+All environments (dev, staging, prod) in:
+
 <img width="800" alt="us-region" src="us-region.png" />
 
 ## Have a nice weekend!
