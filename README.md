@@ -1,6 +1,11 @@
 # GH integration for US region
 
-## GitHub Features
+## Technicalities
+
+Dedicated GitHub application for the US region:
+https://github.com/apps/sonarqube-cloud-us
+
+## Features
 - Organization/Project Bindings
 - PR decorations
 - Check decorations
@@ -14,4 +19,4 @@ DEV, STAGING and PROD in:
 
 <img width="800" alt="us-region" src="us-region.png" />
 
-## Have a nice weekend!
+## Thank you and Have a nice weekend!
