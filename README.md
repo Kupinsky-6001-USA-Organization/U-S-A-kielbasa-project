@@ -2,10 +2,10 @@
 
 ## GitHub Features
 - Organization/Project Bindings
-- Autoscan (fix coming soon)
 - PR decorations
 - Check decorations
 - Members syncs
+- Autoscan (almost there)
 - and more...
 
 ## Availability 
